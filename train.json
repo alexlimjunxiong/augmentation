@@ -1,0 +1,5736 @@
+{
+    "_via_img_metadata": {
+        "22047C801910_142711_part1.jpg200354": {
+            "filename": "22047C801910_142711_part1.jpg",
+            "size": 200354,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 379,
+                        "y": 95,
+                        "width": 37,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "22213S802744_214402_part1.jpg174634": {
+            "filename": "22213S802744_214402_part1.jpg",
+            "size": 174634,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 157,
+                        "y": 50,
+                        "width": 28,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "22213S803350_231145_part1.jpg184286": {
+            "filename": "22213S803350_231145_part1.jpg",
+            "size": 184286,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 153,
+                        "y": 44,
+                        "width": 32,
+                        "height": 62
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "22213S812250_110525_part1.jpg216751": {
+            "filename": "22213S812250_110525_part1.jpg",
+            "size": 216751,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 403,
+                        "y": 98,
+                        "width": 28,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "22214H800095_022716_part1.jpg183923": {
+            "filename": "22214H800095_022716_part1.jpg",
+            "size": 183923,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 162,
+                        "y": 42,
+                        "width": 25,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "22214H800401_140238_part1.jpg209712": {
+            "filename": "22214H800401_140238_part1.jpg",
+            "size": 209712,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 397,
+                        "y": 104,
+                        "width": 28,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "22214H802979_132257_part1.jpg207828": {
+            "filename": "22214H802979_132257_part1.jpg",
+            "size": 207828,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 203,
+                        "y": 96,
+                        "width": 33,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "22473W801747_041921_A2.pn_part1.jpg164011": {
+            "filename": "22473W801747_041921_A2.pn_part1.jpg",
+            "size": 164011,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 223,
+                        "y": 41,
+                        "width": 55,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23041E800178_102139_Vision5_part1.jpg121733": {
+            "filename": "23041E800178_102139_Vision5_part1.jpg",
+            "size": 121733,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 163,
+                        "y": 24,
+                        "width": 26,
+                        "height": 65
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23061C801150_093038_part2.jpg120354": {
+            "filename": "23061C801150_093038_part2.jpg",
+            "size": 120354,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 85,
+                        "y": 52,
+                        "width": 71,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23111Z800884_015530_Vision5_part1.jpg167131": {
+            "filename": "23111Z800884_015530_Vision5_part1.jpg",
+            "size": 167131,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 223,
+                        "y": 117,
+                        "width": 65,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23122E801053_052653_Vision5_part1.jpg187810": {
+            "filename": "23122E801053_052653_Vision5_part1.jpg",
+            "size": 187810,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 337,
+                        "y": 160,
+                        "width": 29,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23122E801865_050827_Vision5_part1.jpg193338": {
+            "filename": "23122E801865_050827_Vision5_part1.jpg",
+            "size": 193338,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 288,
+                        "y": 161,
+                        "width": 29,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23122E802247_071652_Vision5_part1.jpg167895": {
+            "filename": "23122E802247_071652_Vision5_part1.jpg",
+            "size": 167895,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 174,
+                        "y": 41,
+                        "width": 31,
+                        "height": 64
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23122W800969_101741_Vision5_part1.jpg128974": {
+            "filename": "23122W800969_101741_Vision5_part1.jpg",
+            "size": 128974,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 174,
+                        "y": 27,
+                        "width": 63,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23123S800477_034739_Vision5_part1.jpg172164": {
+            "filename": "23123S800477_034739_Vision5_part1.jpg",
+            "size": 172164,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 310,
+                        "y": 36,
+                        "width": 30,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23124G801938_034845_Vision5_part1.jpg182473": {
+            "filename": "23124G801938_034845_Vision5_part1.jpg",
+            "size": 182473,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 252,
+                        "y": 27,
+                        "width": 33,
+                        "height": 68
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23130M802043_104526_Vision5_part1.jpg118351": {
+            "filename": "23130M802043_104526_Vision5_part1.jpg",
+            "size": 118351,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 167,
+                        "y": 71,
+                        "width": 63,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 266,
+                        "y": 66,
+                        "width": 76,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23132G806766_072405_Vision5_part1.jpg147547": {
+            "filename": "23132G806766_072405_Vision5_part1.jpg",
+            "size": 147547,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 156,
+                        "y": 50,
+                        "width": 34,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23134L803127_011155_Vision5_part2.jpg144292": {
+            "filename": "23134L803127_011155_Vision5_part2.jpg",
+            "size": 144292,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 99,
+                        "y": 120,
+                        "width": 64,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23134N800049_233856_Vision5_part1.jpg161577": {
+            "filename": "23134N800049_233856_Vision5_part1.jpg",
+            "size": 161577,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 306,
+                        "y": 89,
+                        "width": 29,
+                        "height": 66
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23135E801610~23135E801610~SDSB5T-0512GB01M1D~SDSB5T-0512GB01M1D~164739~Side5~Image1~1~PASS_part1.jpg161136": {
+            "filename": "23135E801610~23135E801610~SDSB5T-0512GB01M1D~SDSB5T-0512GB01M1D~164739~Side5~Image1~1~PASS_part1.jpg",
+            "size": 161136,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 215,
+                        "y": 111,
+                        "width": 61,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23140M807740_201624_Vision5_part1.jpg151362": {
+            "filename": "23140M807740_201624_Vision5_part1.jpg",
+            "size": 151362,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 167,
+                        "y": 163,
+                        "width": 59,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23151Q803149_102148_Vision5_part1.jpg157447": {
+            "filename": "23151Q803149_102148_Vision5_part1.jpg",
+            "size": 157447,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 181,
+                        "y": 31,
+                        "width": 31,
+                        "height": 64
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23151R800449_231901_Vision5_part1.jpg142548": {
+            "filename": "23151R800449_231901_Vision5_part1.jpg",
+            "size": 142548,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 180,
+                        "y": 51,
+                        "width": 66,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23151S800125_134407_Vision5_part1.jpg130090": {
+            "filename": "23151S800125_134407_Vision5_part1.jpg",
+            "size": 130090,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 218,
+                        "y": 40,
+                        "width": 68,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23160S801373_222905_Vision5_part2.jpg123707": {
+            "filename": "23160S801373_222905_Vision5_part2.jpg",
+            "size": 123707,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 95,
+                        "y": 54,
+                        "width": 61,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23160U804467_220502_Vision5_part1.jpg128566": {
+            "filename": "23160U804467_220502_Vision5_part1.jpg",
+            "size": 128566,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 172,
+                        "y": 37,
+                        "width": 31,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23171G804042_112529_Vision5_part1.jpg131611": {
+            "filename": "23171G804042_112529_Vision5_part1.jpg",
+            "size": 131611,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 219,
+                        "y": 81,
+                        "width": 65,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23172G800006_085732_Vision5_part2.jpg121991": {
+            "filename": "23172G800006_085732_Vision5_part2.jpg",
+            "size": 121991,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 147,
+                        "y": 46,
+                        "width": 74,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23173C801374_140749_Vision5_part1.jpg148891": {
+            "filename": "23173C801374_140749_Vision5_part1.jpg",
+            "size": 148891,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 214,
+                        "y": 105,
+                        "width": 33,
+                        "height": 19
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 186,
+                        "y": 77,
+                        "width": 67,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23181M800560_003025_Vision5_part2.jpg138250": {
+            "filename": "23181M800560_003025_Vision5_part2.jpg",
+            "size": 138250,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 124,
+                        "y": 108,
+                        "width": 61,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23182X808042_081535_Vision5_part1.jpg152780": {
+            "filename": "23182X808042_081535_Vision5_part1.jpg",
+            "size": 152780,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 175,
+                        "y": 41,
+                        "width": 26,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23182Y803033_195530_Vision5_part1.jpg114464": {
+            "filename": "23182Y803033_195530_Vision5_part1.jpg",
+            "size": 114464,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 187,
+                        "y": 40,
+                        "width": 71,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23184K800070_161743_Vision5_part1.jpg150908": {
+            "filename": "23184K800070_161743_Vision5_part1.jpg",
+            "size": 150908,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 166,
+                        "y": 34,
+                        "width": 29,
+                        "height": 67
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23185A800293_043337_Vision5_part1.jpg127642": {
+            "filename": "23185A800293_043337_Vision5_part1.jpg",
+            "size": 127642,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 176,
+                        "y": 46,
+                        "width": 72,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23203C804988_101012_part2.jpg170192": {
+            "filename": "23203C804988_101012_part2.jpg",
+            "size": 170192,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 640,
+                        "y": 199,
+                        "width": 33,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23204A805885_231314_part1.jpg154247": {
+            "filename": "23204A805885_231314_part1.jpg",
+            "size": 154247,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 172,
+                        "y": 43,
+                        "width": 25,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23205C802023_214804_part1.jpg113334": {
+            "filename": "23205C802023_214804_part1.jpg",
+            "size": 113334,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 186,
+                        "y": 86,
+                        "width": 34,
+                        "height": 18
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 155,
+                        "y": 54,
+                        "width": 70,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 529,
+                        "y": 49,
+                        "width": 77,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23205Q806368~23205Q806368~SDDQMQD-512G-1201~SDDQMQD-512G-1201~044650~Side5~Image1~1~PASS_part1.jpg144633": {
+            "filename": "23205Q806368~23205Q806368~SDDQMQD-512G-1201~SDDQMQD-512G-1201~044650~Side5~Image1~1~PASS_part1.jpg",
+            "size": 144633,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 703,
+                        "y": 116,
+                        "width": 67,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23205Q806369~23205Q806369~SDDQMQD-512G-1201~SDDQMQD-512G-1201~044642~Side5~Image1~1~PASS_part1.jpg122668": {
+            "filename": "23205Q806369~23205Q806369~SDDQMQD-512G-1201~SDDQMQD-512G-1201~044642~Side5~Image1~1~PASS_part1.jpg",
+            "size": 122668,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 709,
+                        "y": 69,
+                        "width": 59,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23213E800051_222134_part1.jpg159954": {
+            "filename": "23213E800051_222134_part1.jpg",
+            "size": 159954,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 159,
+                        "y": 47,
+                        "width": 30,
+                        "height": 62
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23213E804325_092946_part1.jpg165456": {
+            "filename": "23213E804325_092946_part1.jpg",
+            "size": 165456,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 169,
+                        "y": 45,
+                        "width": 35,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23213U800656_121139_part2.jpg124031": {
+            "filename": "23213U800656_121139_part2.jpg",
+            "size": 124031,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 253,
+                        "y": 45,
+                        "width": 60,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23214C800666_142636_part1.jpg162790": {
+            "filename": "23214C800666_142636_part1.jpg",
+            "size": 162790,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 163,
+                        "y": 43,
+                        "width": 34,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23216F805113_000909_part1.jpg159584": {
+            "filename": "23216F805113_000909_part1.jpg",
+            "size": 159584,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 189,
+                        "y": 32,
+                        "width": 34,
+                        "height": 64
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23216G802989_223534_part2.jpg116614": {
+            "filename": "23216G802989_223534_part2.jpg",
+            "size": 116614,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 87,
+                        "y": 56,
+                        "width": 70,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23216J802006_071543_part1.jpg119506": {
+            "filename": "23216J802006_071543_part1.jpg",
+            "size": 119506,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 155,
+                        "y": 65,
+                        "width": 26,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23222L807395_005218_part3.jpg138042": {
+            "filename": "23222L807395_005218_part3.jpg",
+            "size": 138042,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 175,
+                        "y": 542,
+                        "width": 23,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23224T802603_231327_part1.jpg130221": {
+            "filename": "23224T802603_231327_part1.jpg",
+            "size": 130221,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 179,
+                        "y": 26,
+                        "width": 31,
+                        "height": 65
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23225E800496_082830_part1.jpg144749": {
+            "filename": "23225E800496_082830_part1.jpg",
+            "size": 144749,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 170,
+                        "y": 67,
+                        "width": 28,
+                        "height": 62
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23225P805203_063638_part2.jpg117559": {
+            "filename": "23225P805203_063638_part2.jpg",
+            "size": 117559,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 86,
+                        "y": 55,
+                        "width": 71,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23226K805036_062957_part2.jpg120072": {
+            "filename": "23226K805036_062957_part2.jpg",
+            "size": 120072,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 87,
+                        "y": 54,
+                        "width": 66,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23226K805038_040930_part2.jpg120527": {
+            "filename": "23226K805038_040930_part2.jpg",
+            "size": 120527,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 86,
+                        "y": 39,
+                        "width": 69,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23230E801336_090425_part2.jpg116133": {
+            "filename": "23230E801336_090425_part2.jpg",
+            "size": 116133,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 87,
+                        "y": 46,
+                        "width": 70,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23230S802596_004216_part2.jpg112604": {
+            "filename": "23230S802596_004216_part2.jpg",
+            "size": 112604,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 89,
+                        "y": 39,
+                        "width": 61,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23230W800797_032306_part1.jpg128452": {
+            "filename": "23230W800797_032306_part1.jpg",
+            "size": 128452,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 154,
+                        "y": 52,
+                        "width": 31,
+                        "height": 67
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23231H804312_105445_part1.jpg154039": {
+            "filename": "23231H804312_105445_part1.jpg",
+            "size": 154039,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 176,
+                        "y": 55,
+                        "width": 33,
+                        "height": 65
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23231H804388_075803_part1.jpg142911": {
+            "filename": "23231H804388_075803_part1.jpg",
+            "size": 142911,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 176,
+                        "y": 33,
+                        "width": 34,
+                        "height": 62
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23231L807489_090615_A3.pn_part1.jpg174836": {
+            "filename": "23231L807489_090615_A3.pn_part1.jpg",
+            "size": 174836,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 556,
+                        "y": 137,
+                        "width": 73,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 206,
+                        "y": 140,
+                        "width": 59,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23232B801343_171915_part2.jpg122003": {
+            "filename": "23232B801343_171915_part2.jpg",
+            "size": 122003,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 95,
+                        "y": 54,
+                        "width": 57,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23233H805098_145232_A1.pn_part1.jpg179392": {
+            "filename": "23233H805098_145232_A1.pn_part1.jpg",
+            "size": 179392,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 177,
+                        "y": 119,
+                        "width": 60,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23234J803029_080529_A1.pn_part1.jpg179195": {
+            "filename": "23234J803029_080529_A1.pn_part1.jpg",
+            "size": 179195,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 173,
+                        "y": 124,
+                        "width": 60,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23234Z806178_053833_part2.jpg150761": {
+            "filename": "23234Z806178_053833_part2.jpg",
+            "size": 150761,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 0,
+                        "y": 54,
+                        "width": 54,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23235U803254_204259_A2.pn_part1.jpg181487": {
+            "filename": "23235U803254_204259_A2.pn_part1.jpg",
+            "size": 181487,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 216,
+                        "y": 161,
+                        "width": 64,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 312,
+                        "y": 157,
+                        "width": 72,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23235U809892_033355_A3.pn_part1.jpg174533": {
+            "filename": "23235U809892_033355_A3.pn_part1.jpg",
+            "size": 174533,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 296,
+                        "y": 145,
+                        "width": 69,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 200,
+                        "y": 152,
+                        "width": 58,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23240V800480_135844_A2.pn_part1.jpg166592": {
+            "filename": "23240V800480_135844_A2.pn_part1.jpg",
+            "size": 166592,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 219,
+                        "y": 155,
+                        "width": 55,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23240V800826_171212_A1.pn_part1.jpg181911": {
+            "filename": "23240V800826_171212_A1.pn_part1.jpg",
+            "size": 181911,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 176,
+                        "y": 122,
+                        "width": 57,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 269,
+                        "y": 116,
+                        "width": 71,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23256B800826_055001_part1.jpg124495": {
+            "filename": "23256B800826_055001_part1.jpg",
+            "size": 124495,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 140,
+                        "y": 82,
+                        "width": 65,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23334K804180_171247_A3_part1.jpg138608": {
+            "filename": "23334K804180_171247_A3_part1.jpg",
+            "size": 138608,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 508,
+                        "y": 354,
+                        "width": 15,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23334K806350_170204_A2_part3.jpg115158": {
+            "filename": "23334K806350_170204_A2_part3.jpg",
+            "size": 115158,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 65,
+                        "y": 524,
+                        "width": 48,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 123,
+                        "y": 528,
+                        "width": 44,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23334M802358_051023_A3_part3.jpg121090": {
+            "filename": "23334M802358_051023_A3_part3.jpg",
+            "size": 121090,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 75,
+                        "y": 526,
+                        "width": 41,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23334S805556_193400_part1.jpg85034": {
+            "filename": "23334S805556_193400_part1.jpg",
+            "size": 85034,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 234,
+                        "y": 39,
+                        "width": 70,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23334Z800640_195857_part3.jpg99837": {
+            "filename": "23334Z800640_195857_part3.jpg",
+            "size": 99837,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 180,
+                        "y": 539,
+                        "width": 33,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23335F800429_013705_part1.jpg134431": {
+            "filename": "23335F800429_013705_part1.jpg",
+            "size": 134431,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 505,
+                        "y": 242,
+                        "width": 74,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23341E803409_040349_part1.jpg127849": {
+            "filename": "23341E803409_040349_part1.jpg",
+            "size": 127849,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 414,
+                        "y": 45,
+                        "width": 71,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23341N809218_174707_A2_part1.jpg130432": {
+            "filename": "23341N809218_174707_A2_part1.jpg",
+            "size": 130432,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 517,
+                        "y": 345,
+                        "width": 17,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23342R803856_103553_A3_part1.jpg133422": {
+            "filename": "23342R803856_103553_A3_part1.jpg",
+            "size": 133422,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 249,
+                        "y": 53,
+                        "width": 73,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 159,
+                        "y": 59,
+                        "width": 54,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 177,
+                        "y": 82,
+                        "width": 36,
+                        "height": 19
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23351M808866_043402_part2.jpg42233": {
+            "filename": "23351M808866_043402_part2.jpg",
+            "size": 42233,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 227,
+                        "y": 541,
+                        "width": 23,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23352S801946_000543_part1.jpg166991": {
+            "filename": "23352S801946_000543_part1.jpg",
+            "size": 166991,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 450,
+                        "y": 60,
+                        "width": 22,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23354G804756_194923_part1.jpg158054": {
+            "filename": "23354G804756_194923_part1.jpg",
+            "size": 158054,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 139,
+                        "y": 34,
+                        "width": 25,
+                        "height": 60
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23360B801765_143751_part1.jpg105464": {
+            "filename": "23360B801765_143751_part1.jpg",
+            "size": 105464,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 571,
+                        "y": 548,
+                        "width": 50,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23363D802102_105233_part1.jpg146592": {
+            "filename": "23363D802102_105233_part1.jpg",
+            "size": 146592,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 149,
+                        "y": 93,
+                        "width": 55,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23363D802103_105354_part1.jpg146444": {
+            "filename": "23363D802103_105354_part1.jpg",
+            "size": 146444,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 148,
+                        "y": 95,
+                        "width": 54,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23363K804036_151908_part1.jpg170051": {
+            "filename": "23363K804036_151908_part1.jpg",
+            "size": 170051,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 131,
+                        "y": 64,
+                        "width": 24,
+                        "height": 60
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23363R800618_071808_part2.jpg179935": {
+            "filename": "23363R800618_071808_part2.jpg",
+            "size": 179935,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 678,
+                        "y": 259,
+                        "width": 31,
+                        "height": 15
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23363V800579_050715_part1.jpg131117": {
+            "filename": "23363V800579_050715_part1.jpg",
+            "size": 131117,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 143,
+                        "y": 83,
+                        "width": 57,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23364Y803813_000401_part1.jpg122608": {
+            "filename": "23364Y803813_000401_part1.jpg",
+            "size": 122608,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 147,
+                        "y": 47,
+                        "width": 60,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23365D802932_095512_part1.jpg125091": {
+            "filename": "23365D802932_095512_part1.jpg",
+            "size": 125091,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 129,
+                        "y": 67,
+                        "width": 27,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23370Z805070_093901_part3.jpg76972": {
+            "filename": "23370Z805070_093901_part3.jpg",
+            "size": 76972,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 169,
+                        "y": 555,
+                        "width": 41,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23371B805344_070531_A1_part1.jpg131858": {
+            "filename": "23371B805344_070531_A1_part1.jpg",
+            "size": 131858,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 498,
+                        "y": 206,
+                        "width": 69,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23372K803471_131823_A1_part3.jpg128784": {
+            "filename": "23372K803471_131823_A1_part3.jpg",
+            "size": 128784,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 251,
+                        "y": 532,
+                        "width": 33,
+                        "height": 19
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23381E809770_123030_part1.jpg80459": {
+            "filename": "23381E809770_123030_part1.jpg",
+            "size": 80459,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 135,
+                        "y": 52,
+                        "width": 68,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23381M809747_231531_part3.jpg87046": {
+            "filename": "23381M809747_231531_part3.jpg",
+            "size": 87046,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 263,
+                        "y": 554,
+                        "width": 31,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23381U801042_032139_part3.jpg128933": {
+            "filename": "23381U801042_032139_part3.jpg",
+            "size": 128933,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 353,
+                        "y": 43,
+                        "width": 45,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23382L800760_182542_part1.jpg111608": {
+            "filename": "23382L800760_182542_part1.jpg",
+            "size": 111608,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 139,
+                        "y": 38,
+                        "width": 57,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23383U800241_145338_part1.jpg107640": {
+            "filename": "23383U800241_145338_part1.jpg",
+            "size": 107640,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 493,
+                        "y": 232,
+                        "width": 80,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23384B802268_011515_part1.jpg129352": {
+            "filename": "23384B802268_011515_part1.jpg",
+            "size": 129352,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 133,
+                        "y": 51,
+                        "width": 62,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23384U800651_034305_part1.jpg135854": {
+            "filename": "23384U800651_034305_part1.jpg",
+            "size": 135854,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 141,
+                        "y": 79,
+                        "width": 67,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23410H804141_073908_A2_part1.jpg154006": {
+            "filename": "23410H804141_073908_A2_part1.jpg",
+            "size": 154006,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 134,
+                        "y": 34,
+                        "width": 31,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23412L800926_103359_part3.jpg96961": {
+            "filename": "23412L800926_103359_part3.jpg",
+            "size": 96961,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 411,
+                        "y": 566,
+                        "width": 37,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23412Y809092_140424_part1.jpg119405": {
+            "filename": "23412Y809092_140424_part1.jpg",
+            "size": 119405,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 145,
+                        "y": 55,
+                        "width": 59,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23413Y801036_222500_part2.jpg99325": {
+            "filename": "23413Y801036_222500_part2.jpg",
+            "size": 99325,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 190,
+                        "y": 445,
+                        "width": 27,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23415D800458_175920_part1.jpg72994": {
+            "filename": "23415D800458_175920_part1.jpg",
+            "size": 72994,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 145,
+                        "y": 42,
+                        "width": 66,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23422H800415_205318_A3_part1.jpg121783": {
+            "filename": "23422H800415_205318_A3_part1.jpg",
+            "size": 121783,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 245,
+                        "y": 55,
+                        "width": 71,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23434C803259_172538_A3_part1.jpg134854": {
+            "filename": "23434C803259_172538_A3_part1.jpg",
+            "size": 134854,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 509,
+                        "y": 358,
+                        "width": 20,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23482W807087_222940_part1.jpg94546": {
+            "filename": "23482W807087_222940_part1.jpg",
+            "size": 94546,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 410,
+                        "y": 41,
+                        "width": 25,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23494Z801028_104602_part1.jpg142200": {
+            "filename": "23494Z801028_104602_part1.jpg",
+            "size": 142200,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 118,
+                        "y": 493,
+                        "width": 34,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23495Y805710_035033_part2.jpg169539": {
+            "filename": "23495Y805710_035033_part2.jpg",
+            "size": 169539,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 670,
+                        "y": 252,
+                        "width": 36,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23501R805213_200314_part2.jpg101775": {
+            "filename": "23501R805213_200314_part2.jpg",
+            "size": 101775,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 670,
+                        "y": 245,
+                        "width": 35,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "23504Z804725_213909_part1.jpg124380": {
+            "filename": "23504Z804725_213909_part1.jpg",
+            "size": 124380,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 494,
+                        "y": 553,
+                        "width": 25,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24083A802665_101928_part3.jpg118968": {
+            "filename": "24083A802665_101928_part3.jpg",
+            "size": 118968,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 122,
+                        "y": 555,
+                        "width": 44,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24084D802016_175922_part2.jpg143012": {
+            "filename": "24084D802016_175922_part2.jpg",
+            "size": 143012,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 671,
+                        "y": 242,
+                        "width": 35,
+                        "height": 18
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24085B804620_145401_part1.jpg140269": {
+            "filename": "24085B804620_145401_part1.jpg",
+            "size": 140269,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 137,
+                        "y": 285,
+                        "width": 25,
+                        "height": 16
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24093A802874_061618_part3.jpg36444": {
+            "filename": "24093A802874_061618_part3.jpg",
+            "size": 36444,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 319,
+                        "y": 565,
+                        "width": 21,
+                        "height": 14
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24093A804574_112541_part1.jpg102940": {
+            "filename": "24093A804574_112541_part1.jpg",
+            "size": 102940,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 509,
+                        "y": 372,
+                        "width": 19,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 528,
+                        "y": 372,
+                        "width": 19,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24094J811006_082005_part2.jpg154645": {
+            "filename": "24094J811006_082005_part2.jpg",
+            "size": 154645,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 677,
+                        "y": 246,
+                        "width": 32,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24095P807100_130816_part1.jpg43595": {
+            "filename": "24095P807100_130816_part1.jpg",
+            "size": 43595,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 529,
+                        "y": 366,
+                        "width": 17,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24101P803449_224838_part2.jpg90299": {
+            "filename": "24101P803449_224838_part2.jpg",
+            "size": 90299,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 660,
+                        "y": 233,
+                        "width": 32,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24102C802663_113953_part3.jpg110063": {
+            "filename": "24102C802663_113953_part3.jpg",
+            "size": 110063,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 179,
+                        "y": 35,
+                        "width": 47,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24105Y801606_225619_part1.jpg130956": {
+            "filename": "24105Y801606_225619_part1.jpg",
+            "size": 130956,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 176,
+                        "y": 79,
+                        "width": 37,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 170,
+                        "y": 101,
+                        "width": 54,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24106Q802688_024441_part2.jpg166613": {
+            "filename": "24106Q802688_024441_part2.jpg",
+            "size": 166613,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 706,
+                        "y": 249,
+                        "width": 38,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24106Q803544_004343_part2.jpg156039": {
+            "filename": "24106Q803544_004343_part2.jpg",
+            "size": 156039,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 670,
+                        "y": 244,
+                        "width": 30,
+                        "height": 15
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24106U802379_111023_part1.jpg174297": {
+            "filename": "24106U802379_111023_part1.jpg",
+            "size": 174297,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 133,
+                        "y": 274,
+                        "width": 31,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 133,
+                        "y": 292,
+                        "width": 33,
+                        "height": 15
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24106U803526_062024_part1.jpg146558": {
+            "filename": "24106U803526_062024_part1.jpg",
+            "size": 146558,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 132,
+                        "y": 433,
+                        "width": 28,
+                        "height": 18
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24115T802630_124543_part1.jpg123163": {
+            "filename": "24115T802630_124543_part1.jpg",
+            "size": 123163,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 502,
+                        "y": 535,
+                        "width": 22,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 467,
+                        "y": 550,
+                        "width": 16,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24121X801907_104129_part3.jpg84429": {
+            "filename": "24121X801907_104129_part3.jpg",
+            "size": 84429,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 264,
+                        "y": 562,
+                        "width": 49,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24123E801157_080057_part2.jpg108341": {
+            "filename": "24123E801157_080057_part2.jpg",
+            "size": 108341,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 695,
+                        "y": 571,
+                        "width": 50,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 637,
+                        "y": 575,
+                        "width": 46,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 247,
+                        "y": 39,
+                        "width": 46,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 311,
+                        "y": 40,
+                        "width": 45,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V800347_103721_part1.jpg114058": {
+            "filename": "24124V800347_103721_part1.jpg",
+            "size": 114058,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 324,
+                        "y": 72,
+                        "width": 80,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 366,
+                        "y": 286,
+                        "width": 77,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V800372_092753_part1.jpg127361": {
+            "filename": "24124V800372_092753_part1.jpg",
+            "size": 127361,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 323,
+                        "y": 71,
+                        "width": 79,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 364,
+                        "y": 283,
+                        "width": 76,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V800373_092624_part1.jpg123232": {
+            "filename": "24124V800373_092624_part1.jpg",
+            "size": 123232,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 330,
+                        "y": 64,
+                        "width": 76,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 368,
+                        "y": 281,
+                        "width": 80,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V800415_101401_part1.jpg121070": {
+            "filename": "24124V800415_101401_part1.jpg",
+            "size": 121070,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 329,
+                        "y": 69,
+                        "width": 76,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 369,
+                        "y": 285,
+                        "width": 78,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V800695_060448_part3.jpg90622": {
+            "filename": "24124V800695_060448_part3.jpg",
+            "size": 90622,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 385,
+                        "y": 26,
+                        "width": 82,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V800862_061340_part1.jpg127503": {
+            "filename": "24124V800862_061340_part1.jpg",
+            "size": 127503,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 320,
+                        "y": 67,
+                        "width": 83,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 363,
+                        "y": 282,
+                        "width": 83,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V800862_061340_part3.jpg90328": {
+            "filename": "24124V800862_061340_part3.jpg",
+            "size": 90328,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 386,
+                        "y": 30,
+                        "width": 81,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V800867_060043_part1.jpg128093": {
+            "filename": "24124V800867_060043_part1.jpg",
+            "size": 128093,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 320,
+                        "y": 64,
+                        "width": 84,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 364,
+                        "y": 280,
+                        "width": 80,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V800867_060043_part3.jpg88758": {
+            "filename": "24124V800867_060043_part3.jpg",
+            "size": 88758,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 386,
+                        "y": 27,
+                        "width": 81,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V801044_080324_part3.jpg92786": {
+            "filename": "24124V801044_080324_part3.jpg",
+            "size": 92786,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 386,
+                        "y": 32,
+                        "width": 82,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V801062_103349_part1.jpg123116": {
+            "filename": "24124V801062_103349_part1.jpg",
+            "size": 123116,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 324,
+                        "y": 65,
+                        "width": 82,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 368,
+                        "y": 283,
+                        "width": 79,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V801062_103349_part3.jpg96857": {
+            "filename": "24124V801062_103349_part3.jpg",
+            "size": 96857,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 390,
+                        "y": 29,
+                        "width": 79,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V801063_103359_part1.jpg126331": {
+            "filename": "24124V801063_103359_part1.jpg",
+            "size": 126331,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 326,
+                        "y": 71,
+                        "width": 77,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 369,
+                        "y": 286,
+                        "width": 75,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V801063_103359_part3.jpg94747": {
+            "filename": "24124V801063_103359_part3.jpg",
+            "size": 94747,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 388,
+                        "y": 36,
+                        "width": 80,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V801204_071710_part1.jpg129433": {
+            "filename": "24124V801204_071710_part1.jpg",
+            "size": 129433,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 326,
+                        "y": 71,
+                        "width": 80,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 367,
+                        "y": 289,
+                        "width": 79,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V801204_071710_part3.jpg94128": {
+            "filename": "24124V801204_071710_part3.jpg",
+            "size": 94128,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 388,
+                        "y": 26,
+                        "width": 79,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V801869_100736_part1.jpg129421": {
+            "filename": "24124V801869_100736_part1.jpg",
+            "size": 129421,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 328,
+                        "y": 70,
+                        "width": 81,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 372,
+                        "y": 287,
+                        "width": 77,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24124V801869_100736_part3.jpg93454": {
+            "filename": "24124V801869_100736_part3.jpg",
+            "size": 93454,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 389,
+                        "y": 30,
+                        "width": 79,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24125V804888_084057_part1.jpg120341": {
+            "filename": "24125V804888_084057_part1.jpg",
+            "size": 120341,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 505,
+                        "y": 543,
+                        "width": 22,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24125W803038_153515_part2.jpg175413": {
+            "filename": "24125W803038_153515_part2.jpg",
+            "size": 175413,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 610,
+                        "y": 41,
+                        "width": 42,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 654,
+                        "y": 40,
+                        "width": 43,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 700,
+                        "y": 39,
+                        "width": 49,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24133B806608_224539_part3.jpg76906": {
+            "filename": "24133B806608_224539_part3.jpg",
+            "size": 76906,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 65,
+                        "y": 563,
+                        "width": 45,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 123,
+                        "y": 561,
+                        "width": 49,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24135P801287_221241_part1.jpg107380": {
+            "filename": "24135P801287_221241_part1.jpg",
+            "size": 107380,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 513,
+                        "y": 43,
+                        "width": 76,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24144X802908_032416_part1.jpg117853": {
+            "filename": "24144X802908_032416_part1.jpg",
+            "size": 117853,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 114,
+                        "y": 427,
+                        "width": 29,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24161V805964_111147_part3.jpg104294": {
+            "filename": "24161V805964_111147_part3.jpg",
+            "size": 104294,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 319,
+                        "y": 38,
+                        "width": 34,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24172J807929_232905_part1.jpg103292": {
+            "filename": "24172J807929_232905_part1.jpg",
+            "size": 103292,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 543,
+                        "y": 381,
+                        "width": 22,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24175F803106_213945_part2.jpg163091": {
+            "filename": "24175F803106_213945_part2.jpg",
+            "size": 163091,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 676,
+                        "y": 242,
+                        "width": 34,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24175F803835_002456_part2.jpg162552": {
+            "filename": "24175F803835_002456_part2.jpg",
+            "size": 162552,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 676,
+                        "y": 231,
+                        "width": 35,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24175U800232_210918_part1.jpg120602": {
+            "filename": "24175U800232_210918_part1.jpg",
+            "size": 120602,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 130,
+                        "y": 338,
+                        "width": 29,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24176A804277_130802_part2.jpg173735": {
+            "filename": "24176A804277_130802_part2.jpg",
+            "size": 173735,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 696,
+                        "y": 249,
+                        "width": 32,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24176F805823_172648_part1.jpg126942": {
+            "filename": "24176F805823_172648_part1.jpg",
+            "size": 126942,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 529,
+                        "y": 395,
+                        "width": 17,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24184Y800616_171700_part3.jpg69124": {
+            "filename": "24184Y800616_171700_part3.jpg",
+            "size": 69124,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 35,
+                        "y": 246,
+                        "width": 59,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24193B802701_212757_part2.jpg173002": {
+            "filename": "24193B802701_212757_part2.jpg",
+            "size": 173002,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 679,
+                        "y": 235,
+                        "width": 36,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24194F802596_122606_part1.jpg131209": {
+            "filename": "24194F802596_122606_part1.jpg",
+            "size": 131209,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 554,
+                        "y": 385,
+                        "width": 18,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24195E801390_220954_part1.jpg116804": {
+            "filename": "24195E801390_220954_part1.jpg",
+            "size": 116804,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 165,
+                        "y": 131,
+                        "width": 30,
+                        "height": 16
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 164,
+                        "y": 148,
+                        "width": 30,
+                        "height": 15
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24196A802080_021147_part1.jpg132123": {
+            "filename": "24196A802080_021147_part1.jpg",
+            "size": 132123,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 160,
+                        "y": 66,
+                        "width": 44,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24196E804130_101902_part2.jpg115461": {
+            "filename": "24196E804130_101902_part2.jpg",
+            "size": 115461,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 693,
+                        "y": 243,
+                        "width": 35,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24196E804355_110358_part2.jpg119172": {
+            "filename": "24196E804355_110358_part2.jpg",
+            "size": 119172,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 697,
+                        "y": 241,
+                        "width": 32,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24196E806045_113948_part2.jpg118903": {
+            "filename": "24196E806045_113948_part2.jpg",
+            "size": 118903,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 694,
+                        "y": 242,
+                        "width": 33,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24201R802668_073144_part2.jpg94902": {
+            "filename": "24201R802668_073144_part2.jpg",
+            "size": 94902,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 628,
+                        "y": 561,
+                        "width": 44,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 689,
+                        "y": 563,
+                        "width": 45,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 245,
+                        "y": 48,
+                        "width": 47,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 308,
+                        "y": 47,
+                        "width": 44,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24202J804285_222450_part1.jpg135415": {
+            "filename": "24202J804285_222450_part1.jpg",
+            "size": 135415,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 323,
+                        "y": 153,
+                        "width": 37,
+                        "height": 64
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24202P804338_221326_part2.jpg84439": {
+            "filename": "24202P804338_221326_part2.jpg",
+            "size": 84439,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 672,
+                        "y": 95,
+                        "width": 48,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 734,
+                        "y": 95,
+                        "width": 46,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 464,
+                        "y": 521,
+                        "width": 47,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 733,
+                        "y": 520,
+                        "width": 46,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24202P804338_221326_part3.jpg74198": {
+            "filename": "24202P804338_221326_part3.jpg",
+            "size": 74198,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 10,
+                        "y": 95,
+                        "width": 47,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 9,
+                        "y": 523,
+                        "width": 49,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 64,
+                        "y": 524,
+                        "width": 46,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 163,
+                        "y": 523,
+                        "width": 45,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 452,
+                        "y": 48,
+                        "width": 42,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 502,
+                        "y": 47,
+                        "width": 47,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 263,
+                        "y": 569,
+                        "width": 45,
+                        "height": 19
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 544,
+                        "y": 568,
+                        "width": 44,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24202Y800247_073121_part2.jpg95451": {
+            "filename": "24202Y800247_073121_part2.jpg",
+            "size": 95451,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 247,
+                        "y": 47,
+                        "width": 47,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 310,
+                        "y": 47,
+                        "width": 43,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 630,
+                        "y": 563,
+                        "width": 42,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 691,
+                        "y": 563,
+                        "width": 45,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24204Z808574_180724_part1.jpg87154": {
+            "filename": "24204Z808574_180724_part1.jpg",
+            "size": 87154,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 545,
+                        "y": 369,
+                        "width": 17,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24212G800217_121413_part3.jpg148839": {
+            "filename": "24212G800217_121413_part3.jpg",
+            "size": 148839,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 378,
+                        "y": 560,
+                        "width": 42,
+                        "height": 19
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 430,
+                        "y": 558,
+                        "width": 44,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 480,
+                        "y": 559,
+                        "width": 43,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24221N801697_020710_part2.jpg142053": {
+            "filename": "24221N801697_020710_part2.jpg",
+            "size": 142053,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 611,
+                        "y": 39,
+                        "width": 48,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 660,
+                        "y": 38,
+                        "width": 45,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24224A800709_170043_part3.jpg107256": {
+            "filename": "24224A800709_170043_part3.jpg",
+            "size": 107256,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 146,
+                        "y": 44,
+                        "width": 26,
+                        "height": 15
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 190,
+                        "y": 42,
+                        "width": 30,
+                        "height": 18
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24232U800875_044302_part2.jpg163016": {
+            "filename": "24232U800875_044302_part2.jpg",
+            "size": 163016,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 702,
+                        "y": 246,
+                        "width": 37,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24270Q805789_150736_part2.jpg200103": {
+            "filename": "24270Q805789_150736_part2.jpg",
+            "size": 200103,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 681,
+                        "y": 255,
+                        "width": 31,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24270Q805790_111520_part2.jpg193430": {
+            "filename": "24270Q805790_111520_part2.jpg",
+            "size": 193430,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 681,
+                        "y": 253,
+                        "width": 32,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24270S805267_081338_part2.jpg163486": {
+            "filename": "24270S805267_081338_part2.jpg",
+            "size": 163486,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 673,
+                        "y": 229,
+                        "width": 31,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24270Z800111_221634_part1.jpg96304": {
+            "filename": "24270Z800111_221634_part1.jpg",
+            "size": 96304,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 554,
+                        "y": 375,
+                        "width": 18,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24270Z800236_215535_part1.jpg97999": {
+            "filename": "24270Z800236_215535_part1.jpg",
+            "size": 97999,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 556,
+                        "y": 378,
+                        "width": 16,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24270Z800840_224430_part1.jpg101107": {
+            "filename": "24270Z800840_224430_part1.jpg",
+            "size": 101107,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 557,
+                        "y": 379,
+                        "width": 19,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24281K802009_112316_part2.jpg148355": {
+            "filename": "24281K802009_112316_part2.jpg",
+            "size": 148355,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 705,
+                        "y": 253,
+                        "width": 32,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24281K802045_133510_part2.jpg147992": {
+            "filename": "24281K802045_133510_part2.jpg",
+            "size": 147992,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 706,
+                        "y": 247,
+                        "width": 33,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24281K802941_133503_part2.jpg142360": {
+            "filename": "24281K802941_133503_part2.jpg",
+            "size": 142360,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 707,
+                        "y": 247,
+                        "width": 33,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24281K802952_132959_part2.jpg139924": {
+            "filename": "24281K802952_132959_part2.jpg",
+            "size": 139924,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 708,
+                        "y": 251,
+                        "width": 31,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24292F800850_223355_part1.jpg70440": {
+            "filename": "24292F800850_223355_part1.jpg",
+            "size": 70440,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 177,
+                        "y": 62,
+                        "width": 59,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24292V800937_115136_part1.jpg70165": {
+            "filename": "24292V800937_115136_part1.jpg",
+            "size": 70165,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 179,
+                        "y": 62,
+                        "width": 57,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24292V801621_153807_part3.jpg65163": {
+            "filename": "24292V801621_153807_part3.jpg",
+            "size": 65163,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 155,
+                        "y": 562,
+                        "width": 50,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24292V801635_150914_part1.jpg75892": {
+            "filename": "24292V801635_150914_part1.jpg",
+            "size": 75892,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 179,
+                        "y": 66,
+                        "width": 57,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24292W800059_160952_part2.jpg132884": {
+            "filename": "24292W800059_160952_part2.jpg",
+            "size": 132884,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 704,
+                        "y": 250,
+                        "width": 36,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24292W803352_172132_part2.jpg160899": {
+            "filename": "24292W803352_172132_part2.jpg",
+            "size": 160899,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 705,
+                        "y": 247,
+                        "width": 35,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24303D808121_082512_part1.jpg81669": {
+            "filename": "24303D808121_082512_part1.jpg",
+            "size": 81669,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 135,
+                        "y": 31,
+                        "width": 50,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24303R805721_172908_part1.jpg84700": {
+            "filename": "24303R805721_172908_part1.jpg",
+            "size": 84700,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 134,
+                        "y": 32,
+                        "width": 56,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "24303R806490_175505_part1.jpg78242": {
+            "filename": "24303R806490_175505_part1.jpg",
+            "size": 78242,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 135,
+                        "y": 27,
+                        "width": 54,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "224804803527_102526_Vision5_part1.jpg112714": {
+            "filename": "224804803527_102526_Vision5_part1.jpg",
+            "size": 112714,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 175,
+                        "y": 51,
+                        "width": 69,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "231114800753_003552_Vision5_part1.jpg155365": {
+            "filename": "231114800753_003552_Vision5_part1.jpg",
+            "size": 155365,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 301,
+                        "y": 111,
+                        "width": 78,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 199,
+                        "y": 109,
+                        "width": 69,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "231122806025_075625_Vision5_part1.jpg95166": {
+            "filename": "231122806025_075625_Vision5_part1.jpg",
+            "size": 95166,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 671,
+                        "y": 47,
+                        "width": 63,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "231231804057_001636_Vision5_part1.jpg191298": {
+            "filename": "231231804057_001636_Vision5_part1.jpg",
+            "size": 191298,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 174,
+                        "y": 163,
+                        "width": 33,
+                        "height": 64
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "231309801558_032112_Vision5_part1.jpg153824": {
+            "filename": "231309801558_032112_Vision5_part1.jpg",
+            "size": 153824,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 293,
+                        "y": 208,
+                        "width": 30,
+                        "height": 16
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "231323802500_123959_Vision5_part1.jpg110858": {
+            "filename": "231323802500_123959_Vision5_part1.jpg",
+            "size": 110858,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 182,
+                        "y": 42,
+                        "width": 72,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "231323804082_161036_Vision5_part1.jpg126438": {
+            "filename": "231323804082_161036_Vision5_part1.jpg",
+            "size": 126438,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 179,
+                        "y": 62,
+                        "width": 69,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "231408801841_055552_Vision5_part1.jpg111865": {
+            "filename": "231408801841_055552_Vision5_part1.jpg",
+            "size": 111865,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 278,
+                        "y": 39,
+                        "width": 71,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "231409802079_184101_Vision5_part1.jpg110796": {
+            "filename": "231409802079_184101_Vision5_part1.jpg",
+            "size": 110796,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 565,
+                        "y": 365,
+                        "width": 18,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "231423800080_220849_Vision5_part1.jpg132293": {
+            "filename": "231423800080_220849_Vision5_part1.jpg",
+            "size": 132293,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 174,
+                        "y": 118,
+                        "width": 30,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "231521807077_175651_Vision5_part1.jpg173613": {
+            "filename": "231521807077_175651_Vision5_part1.jpg",
+            "size": 173613,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 183,
+                        "y": 36,
+                        "width": 31,
+                        "height": 60
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "231957801194_193250_part1.jpg128568": {
+            "filename": "231957801194_193250_part1.jpg",
+            "size": 128568,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 181,
+                        "y": 49,
+                        "width": 45,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "231957807054_190624_part1.jpg158348": {
+            "filename": "231957807054_190624_part1.jpg",
+            "size": 158348,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 777,
+                        "y": 595,
+                        "width": 30,
+                        "height": 71
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "232123800145_035946_part1.jpg120276": {
+            "filename": "232123800145_035946_part1.jpg",
+            "size": 120276,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 159,
+                        "y": 37,
+                        "width": 27,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "232140801851_072117_part1.jpg166361": {
+            "filename": "232140801851_072117_part1.jpg",
+            "size": 166361,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 167,
+                        "y": 45,
+                        "width": 36,
+                        "height": 65
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "232164803963_151009_part1.jpg180120": {
+            "filename": "232164803963_151009_part1.jpg",
+            "size": 180120,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 153,
+                        "y": 40,
+                        "width": 31,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "232312804145_200116_part1.jpg133921": {
+            "filename": "232312804145_200116_part1.jpg",
+            "size": 133921,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 702,
+                        "y": 91,
+                        "width": 55,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "232334805167_110809_A1.pn_part1.jpg180754": {
+            "filename": "232334805167_110809_A1.pn_part1.jpg",
+            "size": 180754,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 261,
+                        "y": 123,
+                        "width": 75,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 171,
+                        "y": 125,
+                        "width": 58,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "232402807308_091803_A3.pn_part1.jpg175067": {
+            "filename": "232402807308_091803_A3.pn_part1.jpg",
+            "size": 175067,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 200,
+                        "y": 147,
+                        "width": 57,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "232404803153_121302_part2.jpg126937": {
+            "filename": "232404803153_121302_part2.jpg",
+            "size": 126937,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 96,
+                        "y": 58,
+                        "width": 59,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233341808730_075310_part1.jpg90035": {
+            "filename": "233341808730_075310_part1.jpg",
+            "size": 90035,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 145,
+                        "y": 50,
+                        "width": 59,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233356805445_135730_A2_part3.jpg125140": {
+            "filename": "233356805445_135730_A2_part3.jpg",
+            "size": 125140,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 62,
+                        "y": 522,
+                        "width": 43,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 120,
+                        "y": 523,
+                        "width": 43,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233368802786_021934_A1_part1.jpg117088": {
+            "filename": "233368802786_021934_A1_part1.jpg",
+            "size": 117088,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 143,
+                        "y": 57,
+                        "width": 60,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233368804174_113809_A3_part1.jpg131894": {
+            "filename": "233368804174_113809_A3_part1.jpg",
+            "size": 131894,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 505,
+                        "y": 49,
+                        "width": 70,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233401802729_221352_A2_part1.jpg124596": {
+            "filename": "233401802729_221352_A2_part1.jpg",
+            "size": 124596,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 148,
+                        "y": 42,
+                        "width": 58,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233401805467_023101_A1_part1.jpg117720": {
+            "filename": "233401805467_023101_A1_part1.jpg",
+            "size": 117720,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 501,
+                        "y": 357,
+                        "width": 15,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 519,
+                        "y": 358,
+                        "width": 15,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233468803552_025735_part1.jpg167225": {
+            "filename": "233468803552_025735_part1.jpg",
+            "size": 167225,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 131,
+                        "y": 71,
+                        "width": 28,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233536805221_234013_part1.jpg141639": {
+            "filename": "233536805221_234013_part1.jpg",
+            "size": 141639,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 138,
+                        "y": 29,
+                        "width": 26,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233548801719_044556_part2.jpg101578": {
+            "filename": "233548801719_044556_part2.jpg",
+            "size": 101578,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 189,
+                        "y": 446,
+                        "width": 25,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233649801099_061350_A2_part1.jpg130815": {
+            "filename": "233649801099_061350_A2_part1.jpg",
+            "size": 130815,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 500,
+                        "y": 353,
+                        "width": 18,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233656801777_105648_part1.jpg123731": {
+            "filename": "233656801777_105648_part1.jpg",
+            "size": 123731,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 466,
+                        "y": 375,
+                        "width": 21,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233718802240_094736_A2_part1.jpg132358": {
+            "filename": "233718802240_094736_A2_part1.jpg",
+            "size": 132358,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 517,
+                        "y": 353,
+                        "width": 20,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233735805260_175151_part2.jpg228120": {
+            "filename": "233735805260_175151_part2.jpg",
+            "size": 228120,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 716,
+                        "y": 544,
+                        "width": 49,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233814801124_232319_part3.jpg114692": {
+            "filename": "233814801124_232319_part3.jpg",
+            "size": 114692,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 431,
+                        "y": 527,
+                        "width": 45,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233820800309_071259_part1.jpg109282": {
+            "filename": "233820800309_071259_part1.jpg",
+            "size": 109282,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 531,
+                        "y": 365,
+                        "width": 20,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233820804587_045514_part1.jpg110437": {
+            "filename": "233820804587_045514_part1.jpg",
+            "size": 110437,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 515,
+                        "y": 369,
+                        "width": 21,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233820805305_051621_part1.jpg111063": {
+            "filename": "233820805305_051621_part1.jpg",
+            "size": 111063,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 510,
+                        "y": 369,
+                        "width": 19,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 531,
+                        "y": 367,
+                        "width": 16,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "233846807182_223343_part1.jpg147652": {
+            "filename": "233846807182_223343_part1.jpg",
+            "size": 147652,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 130,
+                        "y": 56,
+                        "width": 25,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "234051801597_141819_part1.jpg109045": {
+            "filename": "234051801597_141819_part1.jpg",
+            "size": 109045,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 141,
+                        "y": 40,
+                        "width": 55,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "234051801598_141811_part1.jpg110673": {
+            "filename": "234051801598_141811_part1.jpg",
+            "size": 110673,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 136,
+                        "y": 34,
+                        "width": 65,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "234051801603_112825_part1.jpg110521": {
+            "filename": "234051801603_112825_part1.jpg",
+            "size": 110521,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 140,
+                        "y": 40,
+                        "width": 55,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "234212803056_021225_A1_part1.jpg124306": {
+            "filename": "234212803056_021225_A1_part1.jpg",
+            "size": 124306,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 523,
+                        "y": 359,
+                        "width": 15,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "234226802875_135924_A2_part1.jpg115835": {
+            "filename": "234226802875_135924_A2_part1.jpg",
+            "size": 115835,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 519,
+                        "y": 342,
+                        "width": 17,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "234302800847_152810_part1.jpg120826": {
+            "filename": "234302800847_152810_part1.jpg",
+            "size": 120826,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 144,
+                        "y": 36,
+                        "width": 55,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "234317804645_045430_A3_part1.jpg139425": {
+            "filename": "234317804645_045430_A3_part1.jpg",
+            "size": 139425,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 143,
+                        "y": 57,
+                        "width": 55,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "234942800148_145756_part2.jpg181294": {
+            "filename": "234942800148_145756_part2.jpg",
+            "size": 181294,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 674,
+                        "y": 235,
+                        "width": 36,
+                        "height": 18
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "240533800122_151633_part1.jpg116602": {
+            "filename": "240533800122_151633_part1.jpg",
+            "size": 116602,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 506,
+                        "y": 554,
+                        "width": 21,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "240956801453_232940_part3.jpg134757": {
+            "filename": "240956801453_232940_part3.jpg",
+            "size": 134757,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 445,
+                        "y": 29,
+                        "width": 48,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "240956805354_120834_part3.jpg128048": {
+            "filename": "240956805354_120834_part3.jpg",
+            "size": 128048,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 438,
+                        "y": 27,
+                        "width": 45,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "241003800541_075559_part2.jpg103154": {
+            "filename": "241003800541_075559_part2.jpg",
+            "size": 103154,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 634,
+                        "y": 40,
+                        "width": 45,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "241009801086_144725_part3.jpg74096": {
+            "filename": "241009801086_144725_part3.jpg",
+            "size": 74096,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 119,
+                        "y": 560,
+                        "width": 47,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 57,
+                        "y": 559,
+                        "width": 48,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "241027800235_203913_part1.jpg118077": {
+            "filename": "241027800235_203913_part1.jpg",
+            "size": 118077,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 422,
+                        "y": 81,
+                        "width": 25,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "241073800733_074535_part1.jpg107856": {
+            "filename": "241073800733_074535_part1.jpg",
+            "size": 107856,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 506,
+                        "y": 226,
+                        "width": 72,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "241341800345_121544_part1.jpg129286": {
+            "filename": "241341800345_121544_part1.jpg",
+            "size": 129286,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 133,
+                        "y": 439,
+                        "width": 31,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "241524807059_025447_part3.jpg105599": {
+            "filename": "241524807059_025447_part3.jpg",
+            "size": 105599,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 49,
+                        "y": 39,
+                        "width": 35,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 94,
+                        "y": 36,
+                        "width": 36,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 140,
+                        "y": 34,
+                        "width": 32,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 181,
+                        "y": 33,
+                        "width": 37,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "241862800233_140913_part3.jpg78775": {
+            "filename": "241862800233_140913_part3.jpg",
+            "size": 78775,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 65,
+                        "y": 579,
+                        "width": 40,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "242005801809_012458_part1.jpg134243": {
+            "filename": "242005801809_012458_part1.jpg",
+            "size": 134243,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 248,
+                        "y": 46,
+                        "width": 76,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 361,
+                        "y": 43,
+                        "width": 25,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 389,
+                        "y": 37,
+                        "width": 29,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 523,
+                        "y": 365,
+                        "width": 18,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 541,
+                        "y": 363,
+                        "width": 16,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 246,
+                        "y": 89,
+                        "width": 70,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "242201803210_202607_part2.jpg102064": {
+            "filename": "242201803210_202607_part2.jpg",
+            "size": 102064,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 50,
+                        "y": 215,
+                        "width": 63,
+                        "height": 64
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "242208800419_003517_part2.jpg100787": {
+            "filename": "242208800419_003517_part2.jpg",
+            "size": 100787,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 478,
+                        "y": 48,
+                        "width": 32,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "242755800082_135538_part2.jpg102819": {
+            "filename": "242755800082_135538_part2.jpg",
+            "size": 102819,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 457,
+                        "y": 38,
+                        "width": 33,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "242755800107_170411_part2.jpg106607": {
+            "filename": "242755800107_170411_part2.jpg",
+            "size": 106607,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 460,
+                        "y": 38,
+                        "width": 33,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "242830802357_133831_part2.jpg180208": {
+            "filename": "242830802357_133831_part2.jpg",
+            "size": 180208,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 689,
+                        "y": 245,
+                        "width": 33,
+                        "height": 18
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "242831801866_162844_part2.jpg177490": {
+            "filename": "242831801866_162844_part2.jpg",
+            "size": 177490,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 683,
+                        "y": 243,
+                        "width": 32,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "242831803224_154749_part2.jpg180809": {
+            "filename": "242831803224_154749_part2.jpg",
+            "size": 180809,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 680,
+                        "y": 243,
+                        "width": 36,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "Defects": "Pass"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "CKO_233254802536_063410_part1.jpg137192": {
+            "filename": "CKO_233254802536_063410_part1.jpg",
+            "size": 137192,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 506,
+                        "y": 256,
+                        "width": 71,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Defects": "Component knockoff"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    }
+}
